@@ -5,6 +5,7 @@ These are just some small utility classes that can be used in Java programs to e
 
 * **time.java** — This program is used to create a pause in the execution of the program. It will pause the execution of the program for a given number of milliseconds which can be inputted to it.
 * **type.java** — This program is used to achieve a typewriter like effect during the printing of statements by the compiler.(_Keep in mind that to use this class, *“time.java”* class must also be present._)
+* **isWholeNumber** — This program is used to verify if an input string consists entirely of whole numbers (0–9) without throwing runtime errors.
   
 <p align="center">
   <b>— G.N. —</b>
