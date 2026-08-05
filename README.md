@@ -3,9 +3,9 @@ These are just some small utility classes that can be used in Java programs to e
 
 ## The use of each program has been given below: 
 
-* **time.java** — This program is used to create a pause in the execution of the program. It will pause the execution of the program for a given number of milliseconds which can be inputted to it. Syntax for calling this method: ``` time.pause(_time in milliseconds_) ```
-* **type.java** — This program is used to achieve a typewriter like effect during the printing of statements by the compiler.(_Keep in mind that to use this class, *“time.java”* class must also be present._) Syntax for calling this method: ``` type.writer(_String_) ```
-* **isWholeNumber.java** — This program is used to verify if an input string consists entirely of whole numbers (0–9) without throwing runtime errors. Syntax for calling this method: ``` isWholeNumber.check(_String_) ```
+* **time.java** — This program is used to create a pause in the execution of the program. It will pause the execution of the program for a given number of milliseconds which can be inputted to it. Syntax for calling this method: ``` time.pause(time_in_milliseconds) ```
+* **type.java** — This program is used to achieve a typewriter like effect during the printing of statements by the compiler.(_Keep in mind that to use this class, *“time.java”* class must also be present._) Syntax for calling this method: ``` type.writer(String) ```
+* **isWholeNumber.java** — This program is used to verify if an input string consists entirely of whole numbers (0–9) without throwing runtime errors. Syntax for calling this method: ``` isWholeNumber.check(String) ```
   
 <p align="center">
   <b>— G.N. —</b>
